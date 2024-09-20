@@ -1,5 +1,5 @@
 import Image from "next/image";
-import CheckIcon from "@/public/assets/Check.svg";
+import CheckIcon from "@/public/assets/check.svg";
 
 export default function Pricing() {
   return (
